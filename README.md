@@ -31,8 +31,6 @@
     </a>
 </p>
 
-##test
-
 ## 📊 My Github Stats
 
 <a href="https://github.com/Scxredx">
