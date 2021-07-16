@@ -34,11 +34,11 @@
 
 ## 📊 My Github Stats
 
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+<a href="https://github.com/Scxredx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scxredx&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+<a href="https://github.com/Scxredx">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Scxredx&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 
 
@@ -53,11 +53,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
+<a href = "https://discord.gg/WNWAUsDQPY"><img src="https://cdn.discordapp.com/attachments/865190478920155156/865504163232219196/icons8-discord-new-48.png"/></a>
 </p>
 
 ## ❤ Views and Followers
