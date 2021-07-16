@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Sleepy 🍕 Bot](Soon)**
+- 🔭 I’m currently working on **[Sleepy 🍕 Bot](Soon) and [Parry](https://github.com/Scxredx/Parry)**
 
 - 🌱 I’m currently learning **Nothing**
 
