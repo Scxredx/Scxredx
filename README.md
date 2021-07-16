@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://media1.tenor.com/images/47d3a03b320b0e77f741d401ff9bdcb2/tenor.gif?itemid=15747325" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Scxredx</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a from idk.</h3>
 
 
 ## 🙋‍♂️ About Me
