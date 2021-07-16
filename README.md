@@ -34,11 +34,12 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/Scxredx/github-readme-stats"><img alt="Scxredx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Scxredx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Scxredx/github-readme-stats"><img alt="Scxredx's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scxredx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
 
 
 <br/>
