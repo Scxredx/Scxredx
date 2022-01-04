@@ -1,6 +1,6 @@
 ### Hello there 👋
 Welcome to my GitHub! My name is Scxred
-![Zenderking#1337](https://discord.c99.nl/widget/theme-3/851344098597797948.png)
+![Scxred](https://discord.c99.nl/widget/theme-3/851344098597797948.png)
 
 #### A bit about me
 - 💻 I'm currently working on Nothing
