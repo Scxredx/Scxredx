@@ -11,4 +11,4 @@ Welcome to my GitHub! My name is Scxred
 
 ---
 
-![Scxredx's GitHub Profile](https://github-readme-stats.vercel.app/api?username=Scxredxt&show_icons=true&title_color=bbbbbb&icon_color=bbbbbb&text_color=bbbbbb&bg_color=333333&include_all_commits=true&hide_border=true)
+![Scxredx's GitHub Profile](https://github-readme-stats.vercel.app/api?username=Scxredx&show_icons=true&title_color=bbbbbb&icon_color=bbbbbb&text_color=bbbbbb&bg_color=333333&include_all_commits=true&hide_border=true)
