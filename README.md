@@ -1,5 +1,8 @@
 ### Hello there 👋
 Welcome to my GitHub! My name is Scxred
+
+
+
 ![Scxred](https://discord.c99.nl/widget/theme-3/851344098597797948.png)
 
 #### A bit about me
